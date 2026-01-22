@@ -11,7 +11,7 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.wipro</groupId>
+    <groupId>com.gcopilot</groupId>
     <artifactId>userapp-api</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>userapp-api</name>

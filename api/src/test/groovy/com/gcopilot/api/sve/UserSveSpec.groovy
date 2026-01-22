@@ -1,10 +1,10 @@
-package com.wipro.api.sve
+package com.gcopilot.api.sve
 
-import com.wipro.api.dto.UserCreateRequest
-import com.wipro.api.dto.UserUpdateRequest
-import com.wipro.api.exception.NotFoundException
-import com.wipro.api.model.User
-import com.wipro.api.repo.UserRepo
+import com.gcopilot.api.dto.UserCreateRequest
+import com.gcopilot.api.dto.UserUpdateRequest
+import com.gcopilot.api.exception.NotFoundException
+import com.gcopilot.api.model.User
+import com.gcopilot.api.repo.UserRepo
 import spock.lang.Specification
 
 class UserSveSpec extends Specification {

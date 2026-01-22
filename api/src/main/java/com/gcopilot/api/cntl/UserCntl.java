@@ -1,9 +1,9 @@
-package com.wipro.api.cntl;
+package com.gcopilot.api.cntl;
 
-import com.wipro.api.dto.UserCreateRequest;
-import com.wipro.api.dto.UserResponse;
-import com.wipro.api.dto.UserUpdateRequest;
-import com.wipro.api.sve.UserSve;
+import com.gcopilot.api.dto.UserCreateRequest;
+import com.gcopilot.api.dto.UserResponse;
+import com.gcopilot.api.dto.UserUpdateRequest;
+import com.gcopilot.api.sve.UserSve;
 import jakarta.validation.Valid;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

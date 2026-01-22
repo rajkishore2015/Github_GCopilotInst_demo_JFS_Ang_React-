@@ -1,7 +1,7 @@
-package com.wipro.api.repo
+package com.gcopilot.api.repo
 
-import com.wipro.api.UserApp
-import com.wipro.api.model.User
+import com.gcopilot.api.UserApp
+import com.gcopilot.api.model.User
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.boot.test.context.SpringBootTest
 import org.springframework.test.context.ContextConfiguration

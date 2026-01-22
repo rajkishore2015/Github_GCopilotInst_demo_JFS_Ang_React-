@@ -1,4 +1,4 @@
-package com.wipro.api.model;
+package com.gcopilot.api.model;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

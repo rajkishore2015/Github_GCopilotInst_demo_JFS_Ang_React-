@@ -1,4 +1,4 @@
-package com.wipro.api.dto;
+package com.gcopilot.api.dto;
 
 public record UserResponse(
         Long id,
