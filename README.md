@@ -1,5 +1,11 @@
 # Multi-Stack User App
 
+## Setup (Required)
+1. Delete the entire existing folder before regeneration based on the copilot-instructions.md
+
+## Generation Prompt (Used)
+"create the userapp with basic crud operation"
+
 This repository contains a Spring Boot API and two front-end implementations (Angular and React).
 
 ## Repository Layout
