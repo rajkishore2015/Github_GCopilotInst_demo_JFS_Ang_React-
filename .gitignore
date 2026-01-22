@@ -1,0 +1,46 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Build outputs
+/dist/
+/angular-ui/dist/
+/react-ui/dist/
+
+# Angular
+/angular-ui/.angular/
+/angular-ui/coverage/
+/angular-ui/.karma/
+
+# React
+/react-ui/coverage/
+/react-ui/.vite/
+
+# Java/Maven
+/api/target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Reports
+coverage/
